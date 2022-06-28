@@ -1,1 +1,3 @@
-# samsumg.io
+# Fondo SAMSUNG con css
+
+https://mauriciocba.github.io/samsumg.io/
